@@ -1,13 +1,13 @@
 ### 2022.01.04
 - EXPLORATION
  - 인공지능과 가위바위보하기
-  - 가위바위보 분류기 만들기
+ - 가위바위보 분류기 만들기
 ---
-How?
-image size를 28x28 >> 56x56으로 키움
+### How?\n
+image size를 28x28 >> 56x56으로 키움\n
 image 학습 데이터를 rock, scissor, paper 각 300EA >> 900EA로 총 2700EA 사용
 
-
+\n
 ```python
 n_channel_1=64
 n_channel_2=256
