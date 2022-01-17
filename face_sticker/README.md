@@ -20,7 +20,10 @@ ValueError: operands could not be broadcast together with shapes (130,130,3) (13
 image의 channel값이 다르게 되어 있어서 서로 합성할 때 오류가 생긴것인데,   
 프로젝트 파일을 새로 만드니 해결되어서 넘어갔다. 왜 이런 오류가 발생했는지 모르겠다.   
 
+### 2022.01.18 log
 
+이미지를 90도 돌렸을때나 밝을때, 어두울때 각각 2장씩 총 5장을 추가해서 detector가 제대로 되는지 확인해봤다.   
+파일 안에 회고도 추가했다.
 
 
 
