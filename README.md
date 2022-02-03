@@ -29,15 +29,15 @@
 1. 나의 첫 머신러닝
 2. 데이터 다루기
 3. 회귀 알고리즘과 모델 규제
-4. 다양한 분류 알고리즘
-5. 트리 알고리즘
-6. 비지도 학습
+4. 다양한 분류 알고리즘   
+5. ~~트리 알고리즘~~   
+6. ~~비지도 학습~~   
 7. 딥러닝을 시작합니다
 8. 이미지를 위한 인공 신경망
 9. 텍스트를 위한 인공 신경망
 
 - ### Stanford University CS231n, Spring 2017
-스탠포드에서 제공한 CS231n 강의를 보면서 학습했습니다.
+스탠포드에서 제공한 [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
 1. Introduction to Convolutional Neural Networks for Visual Recognition
 2. Image Classification
 3. Loss Functions and Optimization
@@ -46,4 +46,5 @@
 6. Training Neural Networks
 
 ## Indian ritual for rain   
-캐글과 데이콘을 진행한 스터디입니다.
+캐글과 데이콘을 진행한 스터디입니다.   
+낯선 캐글을 익숙해질 때까지 진행하고자 하는 의미로 인디안식 기우제라는 이름으로 지었습니다.
