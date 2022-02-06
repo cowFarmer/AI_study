@@ -17,6 +17,7 @@
 - E06_영화리뷰 텍스트 감성분석하기   
 - E07_인물사진 만들기   
 - E08_뉴스 요약봇 만들기   
+- E09_폐렴아 기다려라!
 
 
 ## DeepML
@@ -45,6 +46,6 @@
 5. Convolutional Neural Networks
 6. Training Neural Networks
 
-## Indian ritual for rain   
-캐글과 데이콘을 진행한 스터디입니다.   
-낯선 캐글을 익숙해질 때까지 진행하고자 하는 의미로 인디안식 기우제라는 이름으로 지었습니다.
+## Kaggle study(Indian ritual for rain)   
+낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
+익숙해질 때까지 하자는 의미로 인디안식 기우제라는 이름으로 지었습니다.
