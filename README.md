@@ -39,17 +39,17 @@
 
 - ### Stanford University CS231n, Spring 2017
 스탠포드에서 제공한 [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
-- E01. Introduction to Convolutional Neural Networks for Visual Recognition
-- E02. Image Classification
-- E03. Loss Functions and Optimization
-- E04. Introduction to Neural Networks
-- E05. Convolutional Neural Networks
-- E06. Training Neural Networks I
-- E07. Training Neural Networks II   
-- E10. Recurrent Neural Networks
+- L01. Introduction to Convolutional Neural Networks for Visual Recognition
+- L02. Image Classification
+- L03. Loss Functions and Optimization
+- L04. Introduction to Neural Networks
+- L05. Convolutional Neural Networks
+- L06. Training Neural Networks I
+- L07. Training Neural Networks II   
+- L10. Recurrent Neural Networks
 
 ## Kaggle study(Indian ritual for rain)   
 낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
 익숙해질 때까지 하자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
 
--[Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
+- [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
