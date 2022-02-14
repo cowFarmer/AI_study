@@ -18,6 +18,8 @@
 - E07_인물사진 만들기   
 - E08_뉴스 요약봇 만들기   
 - E09_폐렴아 기다려라!
+- E10_인공지능으로 세상에 없던 새로운 패션 만들기
+- E11_어제 오른 내 주식, 과연 내일은?
 
 
 ## DeepML
@@ -30,22 +32,24 @@
 1. 나의 첫 머신러닝
 2. 데이터 다루기
 3. 회귀 알고리즘과 모델 규제
-4. 다양한 분류 알고리즘   
-5. ~~트리 알고리즘~~   
-6. ~~비지도 학습~~   
+4. 다양한 분류 알고리즘    
 7. 딥러닝을 시작합니다
 8. 이미지를 위한 인공 신경망
 9. 텍스트를 위한 인공 신경망
 
 - ### Stanford University CS231n, Spring 2017
 스탠포드에서 제공한 [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
-1. Introduction to Convolutional Neural Networks for Visual Recognition
-2. Image Classification
-3. Loss Functions and Optimization
-4. Introduction to Neural Networks
-5. Convolutional Neural Networks
-6. Training Neural Networks
+- L01. Introduction to Convolutional Neural Networks for Visual Recognition
+- L02. Image Classification
+- L03. Loss Functions and Optimization
+- L04. Introduction to Neural Networks
+- L05. Convolutional Neural Networks
+- L06. Training Neural Networks I
+- L07. Training Neural Networks II   
+- L10. Recurrent Neural Networks
 
 ## Kaggle study(Indian ritual for rain)   
 낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
-익숙해질 때까지 하자는 의미로 인디안식 기우제라는 이름으로 지었습니다.
+익숙해질 때까지 하자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
+
+- [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
