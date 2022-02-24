@@ -20,6 +20,10 @@
 - E09_폐렴아 기다려라!
 - E10_인공지능으로 세상에 없던 새로운 패션 만들기
 - E11_어제 오른 내 주식, 과연 내일은?
+- E12_트랜스포머로 만드는 대화형 챗봇
+- E13_인간보다 퀴즈를 잘 푸는 인공지능
+- E14_아이유 팬이 좋아할만한 다른 아티스트 찾기
+- E15_문자를 읽을 수 있는 딥러닝
 
 
 ## DeepML
@@ -48,8 +52,12 @@
 - L07. Training Neural Networks II   
 - L10. Recurrent Neural Networks
 
+## GoingDeeper
+
+
 ## Kaggle study(Indian ritual for rain)   
 낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
 익숙해질 때까지 하자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
 
+코드 리뷰에 사용한 주제
 - [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
