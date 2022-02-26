@@ -30,19 +30,18 @@
 머신러닝에 깊게 들어가기 위해 필요한 지식과 개념들을 학습하기 위해 진행한 스터디입니다.
 
 - ### HG-MLDL   
-![](https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20201210_203%2F1607596688198O85qO_JPEG%2F15061320320600206_1126601981.jpg&type=sc960_832)   
-혼자 공부하는 머신러닝 + 딥러닝 책을 보면서 학습했습니다.   
+[혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441) 책을 보면서 학습했습니다.   
 
-1. 나의 첫 머신러닝
-2. 데이터 다루기
-3. 회귀 알고리즘과 모델 규제
-4. 다양한 분류 알고리즘    
-7. 딥러닝을 시작합니다
-8. 이미지를 위한 인공 신경망
-9. 텍스트를 위한 인공 신경망
+- C01. 나의 첫 머신러닝
+- C02. 데이터 다루기
+- C03. 회귀 알고리즘과 모델 규제
+- C04. 다양한 분류 알고리즘    
+- C07. 딥러닝을 시작합니다
+- C08. 이미지를 위한 인공 신경망
+- C09. 텍스트를 위한 인공 신경망
 
 - ### Stanford University CS231n, Spring 2017
-스탠포드에서 제공한 [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
+[CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
 - L01. Introduction to Convolutional Neural Networks for Visual Recognition
 - L02. Image Classification
 - L03. Loss Functions and Optimization
