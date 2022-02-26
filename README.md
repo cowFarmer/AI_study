@@ -29,7 +29,7 @@
 ## DeepML
 머신러닝에 깊게 들어가기 위해 필요한 지식과 개념들을 학습하기 위해 진행한 스터디입니다.
 
-- ### HG-MLDL   
+### HG-MLDL   
 [혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441) 책을 보면서 학습했습니다.   
 
 - C01. 나의 첫 머신러닝
@@ -40,7 +40,7 @@
 - C08. 이미지를 위한 인공 신경망
 - C09. 텍스트를 위한 인공 신경망
 
-- ### Stanford University CS231n, Spring 2017
+### Stanford University CS231n, Spring 2017
 [CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
 - L01. Introduction to Convolutional Neural Networks for Visual Recognition
 - L02. Image Classification
