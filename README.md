@@ -4,11 +4,13 @@
 플립 러닝은 정해진 분량의 자료를 학습하고, 함께 토론하며 과제를 해결하는 학습법입니다.   
 주입식 교육이 아닌 소통을 하면서 성장할 수 있게 주도적으로 학습하고 공유하고 있습니다.
 
+
 ## FUNDAMENTALS
 인공지능 관련 개념 및 교양을 학습하면서 정리한 공간입니다.
 
+
 ## EXPLORATION
-인공지능 프로젝트를 모아둔 공간입니다.
+인공지능 학습 및 프로젝트를 모아둔 공간입니다.
 - E01_가위바위보 분류기 제작   
 - E02_세 가지 품종, 분류해보기   
 - E03_카메라 스티커앱 만들기   
@@ -24,6 +26,7 @@
 - E13_인간보다 퀴즈를 잘 푸는 인공지능
 - E14_아이유 팬이 좋아할만한 다른 아티스트 찾기
 - E15_문자를 읽을 수 있는 딥러닝
+- E16_다음에 볼 영화 예측하기
 
 
 ## DeepML
@@ -31,7 +34,6 @@
 
 ### HG-MLDL   
 [혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441) 책을 보면서 학습했습니다.   
-
 - C01. 나의 첫 머신러닝
 - C02. 데이터 다루기
 - C03. 회귀 알고리즘과 모델 규제
@@ -52,11 +54,14 @@
 - L10. Recurrent Neural Networks
 
 ## GoingDeeper
-
+더 심층적인 개념을 학습하기 위해 진행한 스터디입니다.
 
 ## Kaggle study(Indian ritual for rain)   
 낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
-익숙해질 때까지 하자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
+익숙해질 때까지 도전해보자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
 
 코드 리뷰에 사용한 주제
 - [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
+
+기우제 도전하기
+- [I'm Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started/overview)
