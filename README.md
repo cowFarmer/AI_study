@@ -56,6 +56,10 @@
 ## GoingDeeper
 더 심층적인 개념을 학습하기 위해 진행한 스터디입니다.
 
+## Hackathon   
+결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행한 스터디입니다.   
+- H01. League of Legends Diamond Ranked Games
+
 ## Kaggle study(Indian ritual for rain)   
 낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
 익숙해질 때까지 도전해보자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
