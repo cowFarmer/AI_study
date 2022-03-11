@@ -11,22 +11,23 @@
 
 ## EXPLORATION
 인공지능 학습 및 프로젝트를 모아둔 공간입니다.
-- E01_가위바위보 분류기 제작   
-- E02_세 가지 품종, 분류해보기   
-- E03_카메라 스티커앱 만들기   
-- E04_작사가 인공지능 만들기   
-- E05_캐글 경진대회 집값 예측하기   
-- E06_영화리뷰 텍스트 감성분석하기   
-- E07_인물사진 만들기   
-- E08_뉴스 요약봇 만들기   
-- E09_폐렴아 기다려라!
-- E10_인공지능으로 세상에 없던 새로운 패션 만들기
-- E11_어제 오른 내 주식, 과연 내일은?
-- E12_트랜스포머로 만드는 대화형 챗봇
-- E13_인간보다 퀴즈를 잘 푸는 인공지능
-- E14_아이유 팬이 좋아할만한 다른 아티스트 찾기
-- E15_문자를 읽을 수 있는 딥러닝
-- E16_다음에 볼 영화 예측하기
+- E01_[가위바위보 분류기 제작](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E01_rock_scissor_paper)
+- E02_[세 가지 품종, 분류해보기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E02_three_classification_projects)
+- E03_[카메라 스티커앱 만들기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E03_face_sticker)
+- E04_[작사가 인공지능 만들기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E04_lyricist)
+- E05_[캐글 경진대회 집값 예측하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E05_kaggle_house_price_prediction/E05_kaggle_house_price_prediction.ipynb)
+- E06_[영화리뷰 텍스트 감성분석하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E06_movie_review_sentiment_analysis/E06_movie_review_sentiment_analysis.ipynb)
+- E07_[인물사진 만들기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E07_camera_portrait_mode/E07_camera_portrait_mode.ipynb)
+- E08_[뉴스 요약봇 만들기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E08_news_summary_ai/E08_news_summary_ai.ipynb)
+- E09_[폐렴아 기다려라!](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E09_pneumonia_diagnosis/E09_pneumonia_diagnosis.ipynb)
+- E10_[인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E10_fashion_generative_modeling/E10_fashion_generative_modeling.ipynb)
+- E11_[어제 오른 내 주식, 과연 내일은?](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E11_ARIMA_time_series_prediction/E11_ARIMA_time_series_prediction.ipynb)
+- E12_[트랜스포머로 만드는 대화형 챗봇](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E12_transformer_chatbot/E12_transformer_chatbot.ipynb)
+- E13_[인간보다 퀴즈를 잘 푸는 인공지능](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E13_BERT_solve_quiz/E13_BERT_solve_quiz.ipynb)
+- E14_[아이유 팬이 좋아할만한 다른 아티스트 찾기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E14_movie_recommend/E14_movie_recommend.ipynb)
+- E15_[문자를 읽을 수 있는 딥러닝](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E15_OCR/E15_OCR.ipynb)
+- E16_[다음에 볼 영화 예측하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E16_predict_next_movie/E16_predict_next_movie.ipynb)
+- E17_난 스케치를 할테니 너는 채색을 하거라
 
 
 ## DeepML
@@ -57,8 +58,9 @@
 더 심층적인 개념을 학습하기 위해 진행한 스터디입니다.
 
 ## Hackathon   
-결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행한 스터디입니다.   
-- H01. League of Legends Diamond Ranked Games
+결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행했습니다.   
+
+- H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
 
 ## Kaggle study(Indian ritual for rain)   
 낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
