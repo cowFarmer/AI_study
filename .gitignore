@@ -1,3 +1,6 @@
 .DS_Store
 
 colab_github_upload.ipynb
+
+.tmp.drivedownload
+.tmp.driveupload
