@@ -27,7 +27,7 @@
 - E14_[아이유 팬이 좋아할만한 다른 아티스트 찾기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E14_movie_recommend/E14_movie_recommend.ipynb)
 - E15_[문자를 읽을 수 있는 딥러닝](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E15_OCR/E15_OCR.ipynb)
 - E16_[다음에 볼 영화 예측하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E16_predict_next_movie/E16_predict_next_movie.ipynb)
-- E17_[난 스케치를 할테니 너는 채색을 하거라](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E17_GAN/study.ipynb)
+- E17_[난 스케치를 할테니 너는 채색을 하거라](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E17_GAN/E17_GAN.ipynb)
 
 
 
