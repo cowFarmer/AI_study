@@ -57,6 +57,22 @@
 
 ## GoingDeeper
 더 심층적인 개념을 학습하기 위해 진행한 스터디입니다.
+- G01_[백본 네트워크 구조 상세 분석](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G01_backborn_network/G01_backborn_network.ipynb)
+- G02_[없다면 어떻게 될까?(ResNet Ablation Study)](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G02_ResNet_ablation_study/G02_ResNet_ablation_study.ipynb)
+- G03_[잘 만든 Augmentation, 이미지 100장 안 부럽다](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G03_data_augmentation/G03_data_augmentation.ipynb)
+- G04_[이미지 어디까지 우려볼까?](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G04_cutmix_mixup_augmentation/%20G04_cutmix_mixup_augmentation.ipynb)
+- G05_[너의 속이 궁금해 - Class Activation Map 살펴보기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G05_class_activation_map/G05_class_activation_map.ipynb)
+- G06_[나를 찾아줘 - Class Activation Map 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G06_make_CAM/G06_make_CAM.ipynb)
+- G07_[Object Detection](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G07_object_detection/%20G07_object_detection.ipynb)
+- G08_[GO/STOP! - Object detection 시스템 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G08_make_object_detection_system/G08_make_object_detection_system.ipynb)
+- G09_[물체를 분리하자! - 세그멘테이션 살펴보기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G09_segmentation/G09_segmentation.ipynb)
+- G10_[도로 영역을 찾자! - 세그멘테이션 모델 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G10_make_segmentation_model/G10_make_segmentation_model.ipynb)
+- G11_[OCR 기술의 개요](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G11_OCR_technology/G11_OCR_technology.ipynb)
+- G12_[직접 만들어보는 OCR](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G12_make_OCR/G12_make_OCR.ipynb)
+- G13_[멀리 있지만 괜찮아](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G13_face_detection/G13_face_detection.ipynb)
+- G14_[멀리 있는 사람도 스티커를 붙여주자](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G14_face_sticker/G14_face_sticker.ipynb)
+- G15_[사람의 몸짓을 읽어보자](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G15_human_pose_estimation/G15_human_pose_estimation.ipynb)
+- G16_[행동 스티커 만들기]()
 
 ## Hackathon   
 결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행했습니다.   
