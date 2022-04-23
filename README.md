@@ -7,7 +7,23 @@
 
 ## FUNDAMENTALS
 인공지능 관련 개념 및 교양을 학습하면서 정리한 공간입니다.
-
+- F15_[캐글 포켓몬 데이터셋 다루기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F15_kaggle_pokemon.ipynb)
+- F16_[파이썬으로 이미지 파일 다루기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F16_OpenCV_image_transform.ipynb)
+- F17_[딥러닝과 신경망의 본질](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F17_deep_learning_neural_network.ipynb)
+- F18_[딥러닝 들여다보기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F18_dive_into_deep_learning.ipynb)
+- F19_[선형 회귀와 로지스틱 회귀](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F19_linear_regression_logistic_regression.ipynb)
+- F20_[비지도학습](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F20_unsupervised_learning.ipynb)
+- F21_[TF2 API 개요](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F21_TF2_API.ipynb)
+- F22_[딥네트워크, 서로 뭐가 다른거죠?](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F22_deep_network_structure.ipynb)
+- F23_[딥러닝 레이어의 이해(1) Linear, Convolution](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F23_deep_learning_layer(1)_Linear_Convolution.ipynb)
+- F24_[딥러닝 레이어의 이해(2) Embedding, Recurrent](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F24_deep_learning_layer(2)_Embedding_Recurrent.ipynb)
+- F25_[Regularization](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F25_regularization.ipynb)
+- F26_[활성화 함수의 이해](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F26_activation_function.ipynb)
+- F27_[Likelihood(MLE와 MAP)](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F27_likelihood_MLE_and_MAP.ipynb)
+- F28_[정보이론 톺아보기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F28_information_theory.ipynb)
+- F29_[사이킷런을 활용한 추천 시스템 입문](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F29_recommend_system_with_sklean.ipynb)
+- F30_[컴퓨터 파워 UP](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F30_computing_power_UP.ipynb)
+- F31_[뉴스기사 크롤링 및 분류](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F31_web_crawling.ipynb)
 
 ## EXPLORATION
 인공지능 학습 및 프로젝트를 모아둔 공간입니다.
@@ -29,32 +45,6 @@
 - E16_[다음에 볼 영화 예측하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E16_predict_next_movie/E16_predict_next_movie.ipynb)
 - E17_[난 스케치를 할테니 너는 채색을 하거라](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E17_GAN/E17_GAN.ipynb)
 
-
-
-## DeepML
-머신러닝에 깊게 들어가기 위해 필요한 지식과 개념들을 학습하기 위해 진행한 스터디입니다.
-
-### HG-MLDL   
-[혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441) 책을 보면서 학습했습니다.   
-- C01. 나의 첫 머신러닝
-- C02. 데이터 다루기
-- C03. 회귀 알고리즘과 모델 규제
-- C04. 다양한 분류 알고리즘    
-- C07. 딥러닝을 시작합니다
-- C08. 이미지를 위한 인공 신경망
-- C09. 텍스트를 위한 인공 신경망
-
-### Stanford University CS231n, Spring 2017
-[CS231n](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) 강의를 보면서 학습했습니다.
-- L01. Introduction to Convolutional Neural Networks for Visual Recognition
-- L02. Image Classification
-- L03. Loss Functions and Optimization
-- L04. Introduction to Neural Networks
-- L05. Convolutional Neural Networks
-- L06. Training Neural Networks I
-- L07. Training Neural Networks II   
-- L10. Recurrent Neural Networks
-
 ## GoingDeeper
 더 심층적인 개념을 학습하기 위해 진행한 스터디입니다.
 - G01_[백본 네트워크 구조 상세 분석](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G01_backborn_network/G01_backborn_network.ipynb)
@@ -72,19 +62,16 @@
 - G13_[멀리 있지만 괜찮아](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G13_face_detection/G13_face_detection.ipynb)
 - G14_[멀리 있는 사람도 스티커를 붙여주자](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G14_face_sticker/G14_face_sticker.ipynb)
 - G15_[사람의 몸짓을 읽어보자](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G15_human_pose_estimation/G15_human_pose_estimation.ipynb)
-- G16_[행동 스티커 만들기]()
+- G16_[행동 스티커 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G16_human_pose_sticker/G16_human_pose_sticker.ipynb)
 
 ## Hackathon   
 결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행했습니다.   
-
 - H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
 
-## Kaggle study(Indian ritual for rain)   
-낯설고 어려워 보이는 캐글과 데이콘을 이해하고자 여러 대회를 살펴보고 직접 참여하는것을 목표로 진행한 스터디입니다.   
-익숙해질 때까지 도전해보자는 의미로 인디안식 기우제라는 이름으로 지었습니다.   
+---
 
-코드 리뷰에 사용한 주제
-- [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
-
-기우제 도전하기
-- [I'm Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started/overview)
+## 프로그래밍과 AI에 필요한 지식과 개념들을 학습하기 위해 참고한 컨텐츠들을 정리했습니다.
+   
+- [혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441)
+- [Stanford University CS231n, Spring 2017](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- [파이썬 자료구조와 알고리즘 for Beginner](https://book.naver.com/bookdb/book_detail.naver?bid=17892288)
