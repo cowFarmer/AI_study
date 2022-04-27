@@ -68,6 +68,12 @@
 결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행했습니다.   
 - H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
 
+## 기업 프로젝트
+[애자일소다](http://www.agilesoda.com/)와 함께 __강화학습__ 기반 프로젝트를 진행했습니다.
+- [노션](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
+- [padlet](https://padlet.com/tmsk0711/2mf3mgrxdkn5ls7h)
+-> 차후에 디테일하게 정리
+
 ---
 
 ## 프로그래밍과 AI에 필요한 지식과 개념들을 학습하기 위해 참고한 컨텐츠들을 정리했습니다.
