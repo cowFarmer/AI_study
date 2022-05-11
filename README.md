@@ -64,15 +64,15 @@
 - G15_[사람의 몸짓을 읽어보자](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G15_human_pose_estimation/G15_human_pose_estimation.ipynb)
 - G16_[행동 스티커 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G16_human_pose_sticker/G16_human_pose_sticker.ipynb)
 
-## Hackathon   
-결과물을 도출해내기 위해 동기들과 협업하여 프로젝트를 진행했습니다.   
+## Hackathon && 기업 프로젝트
+결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터톤 프로젝트를 진행했습니다.   
 - H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
 
-## 기업 프로젝트
 [애자일소다](http://www.agilesoda.com/)와 함께 __강화학습__ 기반 프로젝트를 진행했습니다.
+- [Github Organizations](https://github.com/O-GangZa)
 - [notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
 - [padlet](https://padlet.com/tmsk0711/2mf3mgrxdkn5ls7h)
-- [github_link](https://github.com/O-GangZa)
+
 
 ---
 
@@ -81,3 +81,5 @@
 - [혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441)
 - [Stanford University CS231n, Spring 2017](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [파이썬 자료구조와 알고리즘 for Beginner](https://book.naver.com/bookdb/book_detail.naver?bid=17892288)
+- [바닥부터 배우는 강화 학습](https://book.naver.com/bookdb/book_detail.nhn?bid=16657505)
+- [모두를 위한 RL 강좌](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
