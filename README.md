@@ -1,4 +1,6 @@
-# AIFFEL 양재 2기 2021.12.27 ~ 2022.06.10   
+# AIFFEL 양재 2기🎓   
+2021.12.27 ~ 2022.06.10   
+
 ### 아이펠이란?   
 모두의연구소에서 플립 러닝 방식으로 AI를 공부하는 스터디 모임입니다.   
 플립 러닝은 정해진 분량의 자료를 학습하고, 함께 토론하며 과제를 해결하는 학습법입니다.   
@@ -64,20 +66,24 @@
 - G15_[사람의 몸짓을 읽어보자](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G15_human_pose_estimation/G15_human_pose_estimation.ipynb)
 - G16_[행동 스티커 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G16_human_pose_sticker/G16_human_pose_sticker.ipynb)
 
-## Hackathon && 기업 프로젝트
-결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터톤 프로젝트를 진행했습니다.   
+## Hackathon
+결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터 분석 해커톤을 진행했습니다. 
 - H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
 
-[애자일소다](http://www.agilesoda.com/)와 함께 __강화학습__ 기반 프로젝트를 진행했습니다.
-- [Github Organizations](https://github.com/O-GangZa)
+[애자일소다](http://www.agilesoda.com/)와 함께 강화학습 기반 길 찾기 프로젝트인 __오강자__ 해커톤을 진행했습니다.    
+2022.04.25 ~ 2022.06.09   
+- [오강자 프로젝트 바로가기](https://github.com/O-GangZa)
 - [notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
-- [padlet](https://padlet.com/tmsk0711/2mf3mgrxdkn5ls7h)
+- [study padlet](https://padlet.com/tmsk0711/ogangza)
+- [hyperparameter padlet](https://padlet.com/tmsk0711/ogangza_parametertuning)
+- [최종 발표](https://docs.google.com/presentation/d/1g4rSnndIC1UPRLtctxpKDnUgFjEsVCXwA8oUc9TbBMQ/edit#slide=id.g1318e4465e0_1_306)
 
 
 ---
 
 ## 프로그래밍과 AI에 필요한 지식과 개념들을 학습하기 위해 참고한 컨텐츠들을 정리했습니다.
    
+- [AIFFEL](https://aiffel.io/?utm_source=google&utm_medium=cpc&utm_campaign=cn)
 - [혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441)
 - [Stanford University CS231n, Spring 2017](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [파이썬 자료구조와 알고리즘 for Beginner](https://book.naver.com/bookdb/book_detail.naver?bid=17892288)
