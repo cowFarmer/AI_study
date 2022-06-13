@@ -1,14 +1,17 @@
 # AIFFEL 양재 2기🎓   
-2021.12.27 ~ 2022.06.10   
+> 2021.12.27 ~ 2022.06.10   
 
 ### 아이펠이란?   
 모두의연구소에서 플립 러닝 방식으로 AI를 공부하는 스터디 모임입니다.   
 플립 러닝은 정해진 분량의 자료를 학습하고, 함께 토론하며 과제를 해결하는 학습법입니다.   
 주입식 교육이 아닌 소통을 하면서 성장할 수 있게 주도적으로 학습하고 공유하고 있습니다.
 
+다음과 같은 순서대로 아이펠을 진행했습니다.   
+FUNDAMENTALS → EXPLORATION → Datathon → GoingDeeper → Hackathon
 
 ## FUNDAMENTALS
-인공지능 관련 개념 및 교양을 학습하면서 정리한 공간입니다.
+> 2022.01.03 ~ 2022.02.25   
+> 인공지능 관련 개념 및 교양을 학습하면서 정리한 공간입니다.
 - F15_[캐글 포켓몬 데이터셋 다루기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F15_kaggle_pokemon.ipynb)
 - F16_[파이썬으로 이미지 파일 다루기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F16_OpenCV_image_transform.ipynb)
 - F17_[딥러닝과 신경망의 본질](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F17_deep_learning_neural_network.ipynb)
@@ -28,7 +31,8 @@
 - F31_[뉴스기사 크롤링 및 분류](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F31_web_crawling.ipynb)
 
 ## EXPLORATION
-인공지능 학습 및 프로젝트를 모아둔 공간입니다.
+> 2022.01.04 ~ 2022.03.14   
+> 인공지능 학습 및 프로젝트를 모아둔 공간입니다.
 - E01_[가위바위보 분류기 제작](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E01_rock_scissor_paper)
 - E02_[세 가지 품종, 분류해보기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E02_three_classification_projects)
 - E03_[카메라 스티커앱 만들기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E03_face_sticker)
@@ -47,8 +51,14 @@
 - E16_[다음에 볼 영화 예측하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E16_predict_next_movie/E16_predict_next_movie.ipynb)
 - E17_[난 스케치를 할테니 너는 채색을 하거라](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E17_GAN/E17_GAN.ipynb)
 
+## Dataton
+> 2022.03.08 ~ 2022.03.11   
+> 결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터 분석 해커톤을 진행했습니다.   
+- H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
+
 ## GoingDeeper
-더 심층적인 개념을 학습하기 위해 진행한 스터디입니다.
+> 2022.03.16 ~ 2022.04.18   
+> 더 심층적인 Computer Vision 개념을 학습하기 위해 진행한 스터디를 정리한 공간입니다.
 - G01_[백본 네트워크 구조 상세 분석](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G01_backborn_network/G01_backborn_network.ipynb)
 - G02_[없다면 어떻게 될까?(ResNet Ablation Study)](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G02_ResNet_ablation_study/G02_ResNet_ablation_study.ipynb)
 - G03_[잘 만든 Augmentation, 이미지 100장 안 부럽다](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G03_data_augmentation/G03_data_augmentation.ipynb)
@@ -67,22 +77,18 @@
 - G16_[행동 스티커 만들기](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G16_human_pose_sticker/G16_human_pose_sticker.ipynb)
 
 ## Hackathon
-결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터 분석 해커톤을 진행했습니다. 
-- H01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
-
-[애자일소다](http://www.agilesoda.com/)와 함께 강화학습 기반 길 찾기 프로젝트인 __오강자__ 해커톤을 진행했습니다.    
-2022.04.25 ~ 2022.06.09   
-- [오강자 프로젝트 바로가기](https://github.com/O-GangZa)
+> 2022.04.25 ~ 2022.06.09   
+> [애자일소다](http://www.agilesoda.com/)와 함께 강화학습 기반 길 찾기 프로젝트인 __오강자__ 해커톤을 진행했습니다.   
+- [오강자 프로젝트 바로가기](https://github.com/O-GangZa)   
 - [notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
 - [study padlet](https://padlet.com/tmsk0711/ogangza)
 - [hyperparameter padlet](https://padlet.com/tmsk0711/ogangza_parametertuning)
-- [최종 발표](https://docs.google.com/presentation/d/1g4rSnndIC1UPRLtctxpKDnUgFjEsVCXwA8oUc9TbBMQ/edit#slide=id.g1318e4465e0_1_306)
+- [최종 발표 PPT](https://docs.google.com/presentation/d/1g4rSnndIC1UPRLtctxpKDnUgFjEsVCXwA8oUc9TbBMQ/edit#slide=id.g1318e4465e0_1_306)
 
 
 ---
 
-## 프로그래밍과 AI에 필요한 지식과 개념들을 학습하기 위해 참고한 컨텐츠들을 정리했습니다.
-   
+## Study Reference
 - [AIFFEL](https://aiffel.io/?utm_source=google&utm_medium=cpc&utm_campaign=cn)
 - [혼자 공부하는 머신러닝 + 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=17588441)
 - [Stanford University CS231n, Spring 2017](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
