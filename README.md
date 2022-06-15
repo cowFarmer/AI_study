@@ -54,7 +54,8 @@ Fundamentals → Exploration → Datathon → GoingDeeper → Hackathon
 ## Datathon
 > 2022.03.08 ~ 2022.03.11   
 > 결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터 분석 해커톤을 진행했습니다.   
-- D01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
+- D01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Datathon/D01_lol/H01_lol.ipynb)
+- 
 
 ## GoingDeeper
 > 2022.03.16 ~ 2022.04.18   
