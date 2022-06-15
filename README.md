@@ -7,9 +7,9 @@
 주입식 교육이 아닌 소통을 하면서 성장할 수 있게 주도적으로 학습하고 공유하고 있습니다.
 
 다음과 같은 순서대로 아이펠을 진행했습니다.   
-FUNDAMENTALS → EXPLORATION → Datathon → GoingDeeper → Hackathon
+Fundamentals → Exploration → Datathon → GoingDeeper → Hackathon
 
-## FUNDAMENTALS
+## Fundamentals
 > 2022.01.03 ~ 2022.02.25   
 > 인공지능 관련 개념 및 교양을 학습하면서 정리한 공간입니다.
 - F15_[캐글 포켓몬 데이터셋 다루기](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F15_kaggle_pokemon.ipynb)
@@ -30,9 +30,9 @@ FUNDAMENTALS → EXPLORATION → Datathon → GoingDeeper → Hackathon
 - F30_[컴퓨터 파워 UP](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F30_computing_power_UP.ipynb)
 - F31_[뉴스기사 크롤링 및 분류](https://github.com/cowFarmer/AI_study/blob/main/Fundamentals/F31_web_crawling.ipynb)
 
-## EXPLORATION
+## Exploration
 > 2022.01.04 ~ 2022.03.14   
-> 인공지능 학습 및 프로젝트를 모아둔 공간입니다.
+> 인공지능 학습 및 응용한 프로젝트를 모아둔 공간입니다.
 - E01_[가위바위보 분류기 제작](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E01_rock_scissor_paper)
 - E02_[세 가지 품종, 분류해보기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E02_three_classification_projects)
 - E03_[카메라 스티커앱 만들기](https://github.com/cowFarmer/AI_study/tree/main/Exploration/E03_face_sticker)
@@ -51,14 +51,14 @@ FUNDAMENTALS → EXPLORATION → Datathon → GoingDeeper → Hackathon
 - E16_[다음에 볼 영화 예측하기](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E16_predict_next_movie/E16_predict_next_movie.ipynb)
 - E17_[난 스케치를 할테니 너는 채색을 하거라](https://github.com/cowFarmer/AI_study/blob/main/Exploration/E17_GAN/E17_GAN.ipynb)
 
-## Dataton
+## Datathon
 > 2022.03.08 ~ 2022.03.11   
 > 결과물을 도출해내기 위해 동기들과 협업하여 리그오브레전드 데이터 분석 해커톤을 진행했습니다.   
 - D01. [League of Legends Diamond Ranked Games](https://github.com/cowFarmer/AI_study/blob/main/Hackathon/H01_lol/H01_lol.ipynb)
 
 ## GoingDeeper
 > 2022.03.16 ~ 2022.04.18   
-> 더 심층적인 Computer Vision 개념을 학습하기 위해 진행한 스터디를 정리한 공간입니다.
+> 더 심층적인 Computer Vision 개념을 학습하고 응용하여 진행한 프로젝트를 정리한 공간입니다.
 - G01_[백본 네트워크 구조 상세 분석](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G01_backborn_network/G01_backborn_network.ipynb)
 - G02_[없다면 어떻게 될까?(ResNet Ablation Study)](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G02_ResNet_ablation_study/G02_ResNet_ablation_study.ipynb)
 - G03_[잘 만든 Augmentation, 이미지 100장 안 부럽다](https://github.com/cowFarmer/AI_study/blob/main/GoingDeeper/G03_data_augmentation/G03_data_augmentation.ipynb)
@@ -95,3 +95,5 @@ FUNDAMENTALS → EXPLORATION → Datathon → GoingDeeper → Hackathon
 - [파이썬 자료구조와 알고리즘 for Beginner](https://book.naver.com/bookdb/book_detail.naver?bid=17892288)
 - [바닥부터 배우는 강화 학습](https://book.naver.com/bookdb/book_detail.nhn?bid=16657505)
 - [모두를 위한 RL 강좌](https://youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
+- [캐글러 기우제](https://www.notion.so/modulabs/01220069984a434d854495ed985d5158)
+- [Object Detection 논문 제대로 찍먹하기](https://www.notion.so/modulabs/Object-Detection-31d53302af5742a9ad7645ec1488ff0c)
